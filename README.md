@@ -1,18 +1,6 @@
-# Ashbury Chronicles (V2)
+# Ashbury Chronicles (V4)
 
 An immersive evidence/archive site for the Ashbury case. Next.js App Router + Markdown content.
-
-## Quick start
-```bash
-pnpm install
-pnpm dev
-# visit http://localhost:3000/gate
-```
-
-## Build for GitHub Pages
-- Set repo variable `NEXT_PUBLIC_BASE_PATH` to the repo slug (e.g., `ashbury-chronicles`).
-- (Optional) Set `NEXT_PUBLIC_SITE_URL` to `https://<USER>.github.io/<REPO>` for OG images.
-- Push to `main` — GitHub Actions deploys to Pages.
 
 ## Routes
 `/gate`, `/cases`, `/evidence`, `/evidence/[slug]`, `/accounts`, `/accounts/[slug]`, `/notes`, `/notes/[id]`, `/surveillance`, `/surveillance/[id]`, `/characters`, `/characters/[slug]`, `/timeline`, `/search`
