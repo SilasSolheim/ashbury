@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://<USER>.github.io/<REPO>/gate/</loc></url>
+  <url><loc>https://<USER>.github.io/<REPO>/cases/</loc></url>
+  <url><loc>https://<USER>.github.io/<REPO>/evidence/</loc></url>
+  <url><loc>https://<USER>.github.io/<REPO>/accounts/</loc></url>
+  <url><loc>https://<USER>.github.io/<REPO>/characters/</loc></url>
+  <url><loc>https://<USER>.github.io/<REPO>/notes/</loc></url>
+  <url><loc>https://<USER>.github.io/<REPO>/surveillance/</loc></url>
+  <url><loc>https://<USER>.github.io/<REPO>/timeline/</loc></url>
+  <url><loc>https://<USER>.github.io/<REPO>/search/</loc></url>
+  <url><loc>https://<USER>.github.io/<REPO>/methods/</loc></url>
+</urlset>

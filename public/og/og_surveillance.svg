@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0C1F1E"/>
+  <g opacity="0.9"><rect x="200" y="260" width="800" height="110" fill="#0B0B0B"/></g>
+  <circle cx="1000" cy="160" r="18" fill="#E1A73B"/>
+  <text x="980" y="320" font-family="Georgia, serif" font-size="42" fill="#F4F1EA" text-anchor="end">SURVEILLANCE</text>
+  <text x="980" y="365" font-family="Georgia, serif" font-size="24" fill="#F4F1EA" text-anchor="end">patterns before motives</text>
+</svg>
