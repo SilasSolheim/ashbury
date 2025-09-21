@@ -1,0 +1,22 @@
+[
+  {
+    "id": "SV-2025-009",
+    "subject": "Gideon R. Voss",
+    "alias": "Advocate",
+    "last_seen": "2025-09-28T21:07:00-04:00",
+    "pattern": "pauses under the lamppost with the flicker",
+    "risk": 3,
+    "portrait": "/media/surveillance/voss_tele_01.jpg",
+    "body": "He doesn’t smoke; he keeps the fire anyway."
+  },
+  {
+    "id": "SV-2025-003",
+    "subject": "Kane E. Wightman",
+    "alias": "Broker",
+    "last_seen": "2025-10-12T23:43:00-04:00",
+    "pattern": "clockwise walks; stops at the dry fountain tile",
+    "risk": 2,
+    "portrait": "/media/surveillance/kane_tele_01.jpg",
+    "body": "He checks his watch when the bells don’t ring."
+  }
+]

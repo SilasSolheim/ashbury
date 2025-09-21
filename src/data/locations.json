@@ -1,0 +1,23 @@
+[
+  {
+    "id": "LOC-0003",
+    "slug": "south-restaurant",
+    "name": "South Restaurant (The Diner)",
+    "kind": "business",
+    "summary": "Central hub; Levi works the floor; slow dances after close."
+  },
+  {
+    "id": "LOC-0001",
+    "slug": "ashbury-high-school",
+    "name": "Ashbury High School (AHS)",
+    "kind": "school",
+    "summary": "Blue, white, gold — the Saints."
+  },
+  {
+    "id": "LOC-0006",
+    "slug": "ashford-family-practice",
+    "name": "Ashford Family Practice",
+    "kind": "medical",
+    "summary": "Three generations; one light that won’t go out."
+  }
+]

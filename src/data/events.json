@@ -1,0 +1,45 @@
+[
+  {
+    "id": "EVN-2024-001",
+    "date": "2024-10-01T07:47:00-04:00",
+    "title": "Return of Dr. Nathaniel Ashford III",
+    "summary": "Ashford unlocks the family practice at dawn, recommitting to the town after profound loss.",
+    "related_ids": [
+      "CH-0003"
+    ]
+  },
+  {
+    "id": "EVN-2025-0912-01",
+    "date": "2025-09-12T19:30:00-04:00",
+    "title": "The South Restaurant blow-up",
+    "summary": "Group dinner implodes; Davia escorts Hadley out; Julia’s cruel line triggers the ejection.",
+    "related_ids": [
+      "CH-0005",
+      "CH-0007",
+      "CH-0015",
+      "CH-0016",
+      "CH-0012",
+      "CH-0013"
+    ]
+  },
+  {
+    "id": "EVN-2025-0920-01",
+    "date": "2025-09-20T22:00:00-04:00",
+    "title": "First kiss — Levi & Davia (after close)",
+    "summary": "Slow dance in the diner; the line finally crossed.",
+    "related_ids": [
+      "CH-0005",
+      "CH-0007"
+    ]
+  },
+  {
+    "id": "EVN-2025-0312-01",
+    "date": "2025-03-12T11:20:00-04:00",
+    "title": "Brass ring discovered in Wightman drawer",
+    "summary": "Linen envelope yields a brass ring with a hairline notch; not listed in probate.",
+    "related_ids": [
+      "EV-2025-001",
+      "AC-2025-017"
+    ]
+  }
+]

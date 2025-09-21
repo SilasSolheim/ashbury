@@ -1,0 +1,51 @@
+[
+  {
+    "id": "CH-0001",
+    "slug": "calista-wightman",
+    "name": "Calista Vivienne Wightman",
+    "age": 41,
+    "occupation": "Parenting blogger; Psychologist",
+    "appearance": "5'3\", petite; dark brown hair; hazel-brown eyes",
+    "personality": "attentive, driven, outspoken; guarded",
+    "family": [
+      "Norman",
+      "Deanna",
+      "Preston",
+      "Levi",
+      "Apollo"
+    ],
+    "key_info": "Adopted Levi after an affair; fears the truth emerging.",
+    "cult_involvement": "targeted_unwilling",
+    "risk": 2,
+    "portrait": "/media/surveillance/calista_id_01.jpg",
+    "body": "Polished hospitality with a ledger under the tea tray."
+  },
+  {
+    "id": "CH-0003",
+    "slug": "nathaniel-ashford",
+    "name": "Nathaniel James Ashford III, M.D.",
+    "age": 28,
+    "occupation": "Physician",
+    "appearance": "6'3\"; lean; scars jawline & forearm",
+    "personality": "compassionate, clinical, methodical",
+    "key_info": "Widower; keeps the practice open past his limits.",
+    "cult_involvement": "pressured",
+    "risk": 2,
+    "portrait": "/media/surveillance/ashford_tele_01.jpg",
+    "body": "He treats pain like a language."
+  },
+  {
+    "id": "CH-0005",
+    "slug": "davia-hansley",
+    "name": "Davia Evangaline Hansley",
+    "age": 22,
+    "occupation": "Journalist; student",
+    "appearance": "5'8\"; star tattoo; scars",
+    "personality": "thoughtful, stubborn, protective; self‑destructive",
+    "key_info": "Devoted to missing brother; almost-relationship with Levi.",
+    "cult_involvement": "targeted",
+    "risk": 2,
+    "portrait": "/media/surveillance/davia_id_01.jpg",
+    "body": "She writes as if ink could keep people from vanishing."
+  }
+]

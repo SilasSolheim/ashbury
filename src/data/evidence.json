@@ -1,0 +1,59 @@
+[
+  {
+    "id": "EV-2025-001",
+    "slug": "brass-ring-notch",
+    "title": "Brass ring with hairline notch",
+    "found_date": "2025-03-12",
+    "location": "Ashbury — Wightman house, drawer 3",
+    "reliability": 3,
+    "media": [
+      "/media/evidence/ev-2025-001_main.jpg"
+    ],
+    "provenance": [
+      {
+        "source": "estate box #4",
+        "date": "2025-03-12"
+      }
+    ],
+    "chain_of_custody": [
+      {
+        "holder": "S. Solheim",
+        "from": "2025-03-12",
+        "to": "present"
+      }
+    ],
+    "cross_refs": [
+      "AC-2025-017"
+    ],
+    "tags": [
+      "ring",
+      "brass",
+      "inheritance"
+    ],
+    "body": "A ring that fits like an apology. Brass, warm to the touch... camellia soap. Not listed in probate."
+  },
+  {
+    "id": "EV-2025-002",
+    "slug": "linen-envelope-1957",
+    "title": "Linen envelope, postmark missing, annotated “1957”",
+    "found_date": "2025-03-12",
+    "location": "Ashbury — Wightman house, attic trunk",
+    "reliability": 2,
+    "media": [
+      "/media/evidence/ev-2025-002.jpg"
+    ],
+    "body": "Edges softened as if thumbed for years... something lighter removed in a hurry."
+  },
+  {
+    "id": "EV-2025-003",
+    "slug": "ledger-water-damaged",
+    "title": "Ledger with water damage, four pages missing",
+    "found_date": "2025-04-04",
+    "location": "Ashbury — Hospital sub-basement",
+    "reliability": 4,
+    "media": [
+      "/media/evidence/ev-2025-003.jpg"
+    ],
+    "body": "Margins ripple like old lake water... Ink lifts as if it didn’t want to be read."
+  }
+]

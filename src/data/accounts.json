@@ -1,0 +1,24 @@
+[
+  {
+    "id": "AC-2025-017",
+    "slug": "groundskeepers-daughter",
+    "subject": "E.",
+    "relation": "groundskeeper’s daughter",
+    "status": "unverified",
+    "reliability": 2,
+    "portrait": "/media/surveillance/e_01.jpg",
+    "linked_evidence": [
+      "EV-2025-001"
+    ],
+    "body": "I didn’t take the ring; it found me..."
+  },
+  {
+    "id": "AC-2025-022",
+    "slug": "night-watchman",
+    "subject": "Night watchman",
+    "relation": "municipal contractor",
+    "status": "verified",
+    "reliability": 3,
+    "body": "The bells missed at 02:03... a man cupped matches but didn’t smoke."
+  }
+]
